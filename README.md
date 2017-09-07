@@ -2,7 +2,7 @@
 
 ## Summary
 In this sample is possible to see how to implement Google Analytics through SPFx Extensions Application Customizers
-[Read my article here](http://www.delucagiuliano.com/implement-google-analytics-on-sharepoint-online-thanks-to-sharepoint-framework-extensions/)
+[READ MY ARTICLE HERE](http://www.delucagiuliano.com/implement-google-analytics-on-sharepoint-online-thanks-to-sharepoint-framework-extensions/)
 
 ![Google Analytics Application Customizer](./assets/js-application-google-analytics.gif)
 
